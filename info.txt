@@ -1,0 +1,7 @@
+Ajout des dossier server et client dans le git
+
+Vagrantfile du server : configuration de base + installation nginx / nginx-extra / ufw
+	réseau privé : 192.168.0.3
+
+Vagrantfile du client : configuration de base
+	réseau privé : 192.168.0.2
