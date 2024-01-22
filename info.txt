@@ -5,3 +5,7 @@ Vagrantfile du server : configuration de base + installation nginx / nginx-extra
 
 Vagrantfile du client : configuration de base
 	réseau privé : 192.168.0.2
+
+à voir : mauvais index.html lors du http://localhost
+	 faire des tests à partir du client sur le serveur pour tester le firewall ufw
+	 
